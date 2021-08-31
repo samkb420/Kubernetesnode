@@ -1,5 +1,9 @@
 gcloud auth list
 
+
+```
+git clone https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn.git
+```
 gcloud config list project
 
 
